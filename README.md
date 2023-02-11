@@ -24,7 +24,7 @@ The task for this HW is explained in the accompanying prompt which is to be comp
 
 # Grading
 
-The score earned by your submission will be assigned to the team assuming that the buddies contributed equally. To confirm, teams will be occasionally called in for a viva on their submission. If any of the members is unable to explain the submission or does not appear for the scheduled viva, the _team_ will lose marks not only for that WC but for previous WCs in which they were awarded marks based on trust. You are encouraged to report non-contributing buddies through the [appropriate form](https://hulms.instructure.com/courses/2616/quizzes/7187).
+The score earned by your submission will be assigned to the team assuming that the buddies contributed equally. To confirm, teams will be occasionally called in for a viva on their submission. If any of the members is unable to explain the submission or does not appear for the scheduled viva, the _team_ will lose marks for the homework. You are encouraged to report non-contributing buddies through the [appropriate form](https://hulms.instructure.com/courses/2616/quizzes/7187).
 
 # Deadline and discussion
 
